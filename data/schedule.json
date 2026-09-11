@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "schoolYear": "2026-2027",
+    "className": "FCE - L15 1A - Décorateur d'intérieur",
+    "center": "IFAPME Namur-Brabant wallon - Wavre",
+    "address": "Rue Charles Jaumotte, 7, 1300 Wavre",
+    "location": "Centre de Formation (W1)",
+    "trade": "Décorateur d'intérieur (L15)",
+    "courseDay": "Vendredi",
+    "hours": {
+      "semester1": 100,
+      "semester2": 144,
+      "total": 244
+    }
+  },
+  "subjects": {
+    "FOL": {
+      "code": "FOL",
+      "name": "Porte folio",
+      "hours": 4,
+      "teacher": "Clara Meeus",
+      "startDate": "18-09-26",
+      "endDate": "18-09-26"
+    },
+    "DAR": {
+      "code": "DAR",
+      "name": "Dessin architectural",
+      "hours": 36,
+      "teacher": "Jean Leruitte",
+      "startDate": "18-09-26",
+      "endDate": "12-03-27"
+    },
+    "EXG": {
+      "code": "EXG",
+      "name": "Expression graphique",
+      "hours": 32,
+      "teacher": "Mimmo Venturini",
+      "startDate": "25-09-26",
+      "endDate": "23-04-27"
+    },
+    "COU": {
+      "code": "COU",
+      "name": "Couleurs",
+      "hours": 20,
+      "teacher": "Dalénia Lenaers",
+      "startDate": "25-09-26",
+      "endDate": "27-11-26"
+    },
+    "PRO": {
+      "code": "PRO",
+      "name": "Etude et réalisation de projets",
+      "hours": 48,
+      "teacher": "Clara Meeus",
+      "startDate": "02-10-26",
+      "endDate": "28-05-27"
+    },
+    "ARS": {
+      "code": "ARS",
+      "name": "Arts et styles",
+      "hours": 36,
+      "teacher": "Dalénia Lenaers",
+      "startDate": "04-12-26",
+      "endDate": "09-04-27"
+    },
+    "GOE": {
+      "code": "GOE",
+      "name": "Gros oeuvre",
+      "hours": 8,
+      "teacher": "Jean Leruitte",
+      "startDate": "04-12-26",
+      "endDate": "29-01-27"
+    },
+    "MAT": {
+      "code": "MAT",
+      "name": "Matériaux et métaux",
+      "hours": 12,
+      "teacher": "Clara Meeus",
+      "startDate": "11-12-26",
+      "endDate": "22-01-27"
+    },
+    "TSP": {
+      "code": "TSP",
+      "name": "Techniques spéciales",
+      "hours": 12,
+      "teacher": "Thierry Adant",
+      "startDate": "15-01-27",
+      "endDate": "16-04-27"
+    },
+    "REC": {
+      "code": "REC",
+      "name": "Recouvrements sols et murs",
+      "hours": 20,
+      "teacher": "Clara Meeus",
+      "startDate": "05-02-27",
+      "endDate": "14-05-27"
+    },
+    "BOI": {
+      "code": "BOI",
+      "name": "Structures bois",
+      "hours": 16,
+      "teacher": "Jean Leruitte",
+      "startDate": "26-03-27",
+      "endDate": "21-05-27"
+    }
+  },
+  "sessions": [
+    {
+      "id": "2026-09-18-1",
+      "date": "2026-09-18",
+      "code": "FOL",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-09-18-2",
+      "date": "2026-09-18",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-09-25-1",
+      "date": "2026-09-25",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-09-25-2",
+      "date": "2026-09-25",
+      "code": "COU",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-10-02-1",
+      "date": "2026-10-02",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-10-09-1",
+      "date": "2026-10-09",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-10-09-2",
+      "date": "2026-10-09",
+      "code": "COU",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-10-16-1",
+      "date": "2026-10-16",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-10-16-2",
+      "date": "2026-10-16",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-10-23-1",
+      "date": "2026-10-23",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-10-23-2",
+      "date": "2026-10-23",
+      "code": "COU",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-11-06-1",
+      "date": "2026-11-06",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-11-06-2",
+      "date": "2026-11-06",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-11-13-1",
+      "date": "2026-11-13",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-11-13-2",
+      "date": "2026-11-13",
+      "code": "COU",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-11-20-1",
+      "date": "2026-11-20",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-11-20-2",
+      "date": "2026-11-20",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-11-27-1",
+      "date": "2026-11-27",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-11-27-2",
+      "date": "2026-11-27",
+      "code": "COU",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-12-04-1",
+      "date": "2026-12-04",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-12-04-2",
+      "date": "2026-12-04",
+      "code": "GOE",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-12-11-1",
+      "date": "2026-12-11",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-12-11-2",
+      "date": "2026-12-11",
+      "code": "MAT",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2026-12-18-1",
+      "date": "2026-12-18",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2026-12-18-2",
+      "date": "2026-12-18",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-01-08-1",
+      "date": "2027-01-08",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-01-08-2",
+      "date": "2027-01-08",
+      "code": "MAT",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-01-15-1",
+      "date": "2027-01-15",
+      "code": "TSP",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-01-15-2",
+      "date": "2027-01-15",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-01-22-1",
+      "date": "2027-01-22",
+      "code": "MAT",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-01-22-2",
+      "date": "2027-01-22",
+      "code": "PRO",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-01-29-1",
+      "date": "2027-01-29",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-01-29-2",
+      "date": "2027-01-29",
+      "code": "GOE",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-02-05-1",
+      "date": "2027-02-05",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-02-05-2",
+      "date": "2027-02-05",
+      "code": "REC",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-02-12-1",
+      "date": "2027-02-12",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-02-12-2",
+      "date": "2027-02-12",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-02-19-1",
+      "date": "2027-02-19",
+      "code": "REC",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-02-19-2",
+      "date": "2027-02-19",
+      "code": "REC",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-02-26-1",
+      "date": "2027-02-26",
+      "code": "TSP",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-02-26-2",
+      "date": "2027-02-26",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-03-05-1",
+      "date": "2027-03-05",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-03-05-2",
+      "date": "2027-03-05",
+      "code": "ARS",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-03-12-1",
+      "date": "2027-03-12",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-03-12-2",
+      "date": "2027-03-12",
+      "code": "DAR",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-03-19-1",
+      "date": "2027-03-19",
+      "code": "REC",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-03-19-2",
+      "date": "2027-03-19",
+      "code": "PRO",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-03-26-1",
+      "date": "2027-03-26",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-03-26-2",
+      "date": "2027-03-26",
+      "code": "BOI",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-04-02-1",
+      "date": "2027-04-02",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-04-02-2",
+      "date": "2027-04-02",
+      "code": "ARS",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-04-09-1",
+      "date": "2027-04-09",
+      "code": "ARS",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-04-09-2",
+      "date": "2027-04-09",
+      "code": "BOI",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-04-16-1",
+      "date": "2027-04-16",
+      "code": "TSP",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-04-16-2",
+      "date": "2027-04-16",
+      "code": "PRO",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-04-23-1",
+      "date": "2027-04-23",
+      "code": "EXG",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-04-23-2",
+      "date": "2027-04-23",
+      "code": "BOI",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-05-14-1",
+      "date": "2027-05-14",
+      "code": "REC",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    },
+    {
+      "id": "2027-05-14-2",
+      "date": "2027-05-14",
+      "code": "PRO",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-05-21-1",
+      "date": "2027-05-21",
+      "code": "BOI",
+      "room": "A21",
+      "start": "13:00",
+      "end": "16:30"
+    },
+    {
+      "id": "2027-05-28-1",
+      "date": "2027-05-28",
+      "code": "PRO",
+      "room": "A21",
+      "start": "08:30",
+      "end": "12:10"
+    }
+  ]
+}
